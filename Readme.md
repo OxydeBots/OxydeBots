@@ -13,7 +13,7 @@ J'interviens principalement sur des projets liés à Discord, à la sécurité r
 
 ### 🧠 Mes domaines de prédilection :
 
-- 🔁 Bots Discord complexes (music, modération, auto-role, multi-shard)
+- 🔁 Bots Discord complexes (music, modération, auto-role, multi-shard, Protection)
 - ⚙️ Backend Node.js avec MongoDB, Redis, WebSocket
 - 🧪 Automatisation d’interfaces via Playwright (UI headless, Discord, etc.)
 
