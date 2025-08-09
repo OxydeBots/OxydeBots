@@ -53,7 +53,7 @@ J'interviens principalement sur des projets liés à Discord, à la sécurité r
 ## 📫 Contact
 
 - 💬 Discord : [`oxyde.code`](https://discord.com/users/547744111419981825)
-- 📧 Email : [oxyde@1789-structure.fr](mailto:oxyde@1789-structure.fr)
+- 📧 Email : [oxyde@1789-structure.fr](mailto:oxyde@1789-structure.fr) | [gabsamw@oxyde-bots.xyz](mailto:gabsamw@oxyde-bots.xyz)
 - 🌐 Site Web : [https://oxyde-bots.xyz](https://oxyde-bots.xyz)
 
 ---
